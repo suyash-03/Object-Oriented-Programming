@@ -1,0 +1,315 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Synch1",
+            "request": "launch",
+            "mainClass": "multithreading.Synch1",
+            "projectName": "Object Oriented Programming_2c3d5762"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sync2",
+            "request": "launch",
+            "mainClass": "multithreading.Sync2",
+            "projectName": "Object Oriented Programming_2c3d5762"
+        },
+        {
+            "type": "java",
+            "name": "Launch TeluskoConsumerProducerExample",
+            "request": "launch",
+            "mainClass": "multithreading.TeluskoConsumerProducerExample",
+            "projectName": "Object Oriented Programming_2c3d5762"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreadingBasics",
+            "request": "launch",
+            "mainClass": "multithreading.MultiThreadingBasics",
+            "projectName": "Object Oriented Programming_2c3d5762"
+        },
+        {
+            "type": "java",
+            "name": "Launch Synch",
+            "request": "launch",
+            "mainClass": "multithreading.Synch",
+            "projectName": "Object Oriented Programming_2c3d5762"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnonymousClasses",
+            "request": "launch",
+            "mainClass": "AnonymousClasses",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "ArrayListDemo",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch CloningConcepts",
+            "request": "launch",
+            "mainClass": "CloningConcepts",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomComparator",
+            "request": "launch",
+            "mainClass": "CustomComparator",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomComparator2",
+            "request": "launch",
+            "mainClass": "CustomComparator2",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomExceptions",
+            "request": "launch",
+            "mainClass": "CustomExceptions",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNumberOfLinesInFile",
+            "request": "launch",
+            "mainClass": "FileHandling.CountNumberOfLinesInFile",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch TextFileOutputDemo",
+            "request": "launch",
+            "mainClass": "FileHandling.TextFileOutputDemo",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch Generics",
+            "request": "launch",
+            "mainClass": "Generics",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerClass",
+            "request": "launch",
+            "mainClass": "InputMethods.ScannerClass",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "LabSheets.Lab1.TwoSum",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch exerciseB",
+            "request": "launch",
+            "mainClass": "LabSheets.Lab2.exerciseB",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch exerciseC",
+            "request": "launch",
+            "mainClass": "LabSheets.Lab2.exerciseC",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polymorphism",
+            "request": "launch",
+            "mainClass": "LabSheets.Lab4.Polymorphism",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maps",
+            "request": "launch",
+            "mainClass": "Maps",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestedClasses",
+            "request": "launch",
+            "mainClass": "NestedClasses",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticExample",
+            "request": "launch",
+            "mainClass": "StaticBlocks.StaticExample",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticExample2",
+            "request": "launch",
+            "mainClass": "StaticBlocks.StaticExample2",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperReducedString",
+            "request": "launch",
+            "mainClass": "Strings.SuperReducedString",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniqueNumberOfOccurences",
+            "request": "launch",
+            "mainClass": "UniqueNumberOfOccurences",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch abstractionConcepts",
+            "request": "launch",
+            "mainClass": "abstractionConcepts",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloWordapp",
+            "request": "launch",
+            "mainClass": "helloWordapp",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch lambdas",
+            "request": "launch",
+            "mainClass": "lambdas",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch CurrentThreadDemo",
+            "request": "launch",
+            "mainClass": "multithreading.CurrentThreadDemo",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch Deadlock",
+            "request": "launch",
+            "mainClass": "multithreading.Deadlock",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoJoin",
+            "request": "launch",
+            "mainClass": "multithreading.DemoJoin",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExtendThread",
+            "request": "launch",
+            "mainClass": "multithreading.ExtendThread",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreadDemo",
+            "request": "launch",
+            "mainClass": "multithreading.MultiThreadDemo",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreadingBasics",
+            "request": "launch",
+            "mainClass": "multithreading.MultiThreadingBasics",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch PC",
+            "request": "launch",
+            "mainClass": "multithreading.PC",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch PCFixed",
+            "request": "launch",
+            "mainClass": "multithreading.PCFixed",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuspendResume",
+            "request": "launch",
+            "mainClass": "multithreading.SuspendResume",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sync2",
+            "request": "launch",
+            "mainClass": "multithreading.Sync2",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch Synch",
+            "request": "launch",
+            "mainClass": "multithreading.Synch",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch Synch1",
+            "request": "launch",
+            "mainClass": "multithreading.Synch1",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch TaskRunner",
+            "request": "launch",
+            "mainClass": "multithreading.TaskRunner",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadDemo",
+            "request": "launch",
+            "mainClass": "multithreading.ThreadDemo",
+            "projectName": "OOPS_88a2a7db"
+        },
+        {
+            "type": "java",
+            "name": "Launch superConstructor",
+            "request": "launch",
+            "mainClass": "superConstructor",
+            "projectName": "OOPS_88a2a7db"
+        }
+    ]
+}
